@@ -17,7 +17,7 @@ This course is designed for beginner/intermediate level.
  - Check out our website https://bioinformatics.niaid.nih.gov/services for more consultation area BCBB provides
  
 ### Resources  
-- [Workshop slides]("https://proj-bip-prod-publicread.s3.amazonaws.com/training/Categorical data analysis/Categorical data analysis.pdf") 
+- [Workshop slides](https://proj-bip-prod-publicread.s3.amazonaws.com/training/Categorical_data_analysis/Categorical_data_analysis_slide.pdf) 
 - [How to use R, SAS, Stata, and SPSS statistical software for categorical data analysis](http://users.stat.ufl.edu/~aa/cda/cda.html)
   
 ### Tool
