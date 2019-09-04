@@ -19,7 +19,7 @@ This course is designed for beginner/intermediate level.
 ### Resources  
 - [Workshop slides](https://proj-bip-prod-publicread.s3.amazonaws.com/training/Categorical_data_analysis/Categorical_data_analysis_slide.pdf) 
 - [How to use R, SAS, Stata, and SPSS statistical software for categorical data analysis](http://users.stat.ufl.edu/~aa/cda/cda.html)
-- If you are interested in perform categorical data analysis in Prism, please check the manual [here](https://proj-bip-prod-publicread.s3.amazonaws.com/training/Categorical_data_analysis/Prism_practical_manual/Prism_manual.pdf).
+- If you are interested in perform categorical data analysis in Prism, please check the manual [here](https://proj-bip-prod-publicread.s3.amazonaws.com/training/Categorical_data_analysis/Prism+manual/Prism_manual.pdf).
   
 ### Tool
 - RStudio
