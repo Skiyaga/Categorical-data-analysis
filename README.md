@@ -10,7 +10,7 @@ This course is designed for beginner/intermediate level.
 
 ### Workshop Information
 
- - Location: Building ???, Room A322
+ - Location: Room A322,RML Montana
  - Time: Sept 12, 2019 @ 1-4pm
  - Instructor: Jingwen Gu (jingwen.gu@nih.gov)
  - Send email to bioinformatics@niaid.nih.gov for science support
